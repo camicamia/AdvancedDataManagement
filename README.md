@@ -1,3 +1,5 @@
+## Advanced Data Management Assignments
+
 These exercises are part of assignments of Advanced Data Management.
 
 They are done in ***Hadoop*** (*Java*), ***Pig*** and ***Spark*** (both *Python*).
@@ -44,7 +46,31 @@ The output will be as the following:
 
 **Exercise E**: taking the output A as an input, the output should be the pair with the maximum key.
 
-**Exercise F**: taking the output A as an input, the output should be the maximum frequency and the minimum keys.
+ `5 the ` 
+
+**Exercise F**: taking the output A as an input, the output should be the keys with maximum and minimum frequencies.
+
+ ```
+5 the
+2 table pen
+ ```
+
+
 
 **Exercise G**: taking the output B as an input, the output should be the average frequency of the words.
+
+`3.25`
+
+**Exercise H**: taking the output A and the output B as two inputs, the output should be a join where the new key will be the output B value and the value will be the output A value.
+
+ ```
+
+2 table pen
+
+1 car
+
+1 the 
+ ```
+
+
 
